@@ -1,1 +1,2 @@
-# bastaspring2022
+# Slides zur Basta!Spring 2022
+Alle rechte vorbehalten
